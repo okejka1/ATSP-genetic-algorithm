@@ -4,10 +4,10 @@
 The project involves designing and implementing a genetic algorithm to solve the traveling salesman problem. The genetic algorithm is based on the process of natural evolution, where individuals represent traveling salesman routes, and their characteristics are evolved to find the best solution.
 
 # Method
-Selection: Choosing the fittest individuals for reproduction through tournament selection
-Crossover: Order crossover (OX)
-Mutation: 2 types of mutations: Scramble mutation / Inverse mutation
-Fitness Scaling: Preserving the best individuals from the population to avoid loss of the best solutions (Elitism)
+- Selection: Choosing the fittest individuals for reproduction through tournament selection
+- Crossover: Order crossover (OX)
+- Mutation: 2 types of mutations: Scramble mutation / Inverse mutation
+- Fitness Scaling: Preserving the best individuals from the population to avoid loss of the best solutions (Elitism)
 
 
 
